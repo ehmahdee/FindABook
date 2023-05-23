@@ -43,9 +43,9 @@ I would like to thank my Discord study group and Bryan Swarthout.
 Project licensed under the MIT license.
 
 ## Links
-Link to deployed application: 
+Link to deployed application: https://arcane-earth-80328.herokuapp.com/
 
-Link to github repo: 
+Link to github repo: https://github.com/ehmahdee/FindABook
 ## Questions
 
-If you have any questions, please contact me directly at 
+If you have any questions, please contact me directly at edaily94@gmail.com
