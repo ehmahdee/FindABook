@@ -14,12 +14,13 @@ This project takes an API search engine built with a RESTful API and was refacto
 - [Questions](#questions)
 
 ## Photos
-![Screenshot 2023-05-23]()
-![Screenshot 2023-05-23]()
-![Screenshot 2023-05-23]()
-![Screenshot 2023-05-23]()
-![Screenshot 2023-05-23]()
-![Screenshot 2023-05-23]()
+
+<img width="1432" alt="Screenshot 2023-05-23 at 1 01 03 PM" src="https://github.com/ehmahdee/FindABook/assets/126302702/100b53be-2ffd-498e-b4e7-1c26efffb3c5">
+<img width="1338" alt="Screenshot 2023-05-23 at 1 02 05 PM" src="https://github.com/ehmahdee/FindABook/assets/126302702/9b94fe37-5ec7-45a6-bbe2-c1b2142f0edb">
+<img width="1065" alt="Screenshot 2023-05-23 at 1 02 12 PM" src="https://github.com/ehmahdee/FindABook/assets/126302702/c957b5a7-3319-4e85-8b20-a08eade4b99b">
+<img width="1424" alt="Screenshot 2023-05-23 at 1 01 22 PM" src="https://github.com/ehmahdee/FindABook/assets/126302702/74bb62ef-0644-4a6c-8695-25d0e569dddb">
+<img width="1187" alt="Screenshot 2023-05-23 at 1 01 44 PM" src="https://github.com/ehmahdee/FindABook/assets/126302702/0299318b-6ebc-4ac7-a2cf-47984ddccaf4">
+
 
 
 ## Installation
